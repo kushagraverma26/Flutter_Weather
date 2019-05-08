@@ -1,0 +1,1 @@
+"# flutterweather"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/KK1811/flutterweather.gitgit push -u origin master
